@@ -52,4 +52,5 @@ nav a:hover {
 
 .hide {
     display: none;
+	z-index: 10;
 }
